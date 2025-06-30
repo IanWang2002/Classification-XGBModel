@@ -1,4 +1,19 @@
-Being a classification project, we first explored a very simple model, the logistic regression. As anticipated, it was the quickest to run, but giving an average score. One interesting thing we noticed was that tweaking the parameters had not changed the validation accuracy/score by a lot, or the Kaggle score. We discuss more about this later. We explored other models including decision tree, random forest, xgboost, MLP and SVM. The table below shows the score and average time for each model.
+# Classification Model Comparison
+This project evaluates a range of machine learning models for a classification task. We started with logistic regression as a baseline due to its simplicity and speed. As expected, it ran quickly but only achieved average performance. Notably, adjusting its hyperparameters had minimal impact on both validation accuracy and Kaggle score — a pattern discussed further in our report.
+
+We then explored several other models to compare performance:
+
+Decision Tree
+
+Random Forest
+
+XGBoost
+
+Multi-Layer Perceptron (MLP)
+
+Support Vector Machine (SVM)
+
+Each model was assessed based on validation accuracy and average runtime.
 
 
 
